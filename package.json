@@ -1,7 +1,21 @@
 {
-  "name": "npm-next",
+  "name": "@latelier22/npm-next",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A Next.js project with reusable components and functions",
+  "main": "index.js",
+ 
+  "keywords": ["nextjs", "components", "functions"],
+  "author": "Cyrille LE CORRE",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latelier22/npm-next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/latelier22/artisans-strapi/issues"
+  },
+  "homepage": "https://github.com/latelier22/artisans-strapi#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
