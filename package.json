@@ -13,9 +13,9 @@
     "url": "https://github.com/latelier22/npm-next.git"
   },
   "bugs": {
-    "url": "https://github.com/latelier22/artisans-strapi/issues"
+    "url": "https://github.com/latelier22/npm-next.git/issues"
   },
-  "homepage": "https://github.com/latelier22/artisans-strapi#readme",
+  "homepage": "https://github.com/latelier22/npm-next#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
