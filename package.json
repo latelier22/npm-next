@@ -1,6 +1,6 @@
 {
   "name": "@latelier22/npm-next",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "description": "A Next.js project with reusable components and functions",
   "main": "index.js",
